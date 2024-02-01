@@ -169,13 +169,6 @@ input[type="checkbox"]{
   transform: translateX(-100px);
 }
 
-  body {
-  background-image: url("assets/images/Sky.png");
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
-}
-
 .video-bg{
   position: absolute;
   z-index: -1;
