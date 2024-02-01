@@ -204,7 +204,7 @@ input[type="checkbox"]{
 
   <div class="hero">
     <video class="video-bg" autoplay muted loop>
-      <source src="assets/images/NAMEOFTHEVIDEOINTHEFOLDERPLSANDTY.mp4" type="video/mp4">
+      <source src="assets/WrittenCityFinal4web.mp4" type="video/mp4">
     </video>
   </div>
 
